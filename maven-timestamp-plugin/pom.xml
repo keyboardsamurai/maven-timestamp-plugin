@@ -93,12 +93,12 @@
 		<repository>
 			<id>maven-timespamp-plugin.googlecode.releases</id>
 			<name>maven-timespamp-plugin.googlecode.releases</name>
-            <url>dav:http://maven-timestamp-plugin.googlecode.com/git/repository/releases</url>
+            <url>http://maven-timestamp-plugin.googlecode.com/git/repository/releases</url>
 		</repository>
 		<snapshotRepository>
-			<id>maven-timespamp-plugin.googlecode.releases</id>
-			<name>maven-timespamp-plugin.googlecode.releases</name>
-            <url>dav:http://maven-timestamp-plugin.googlecode.com/git/repository/snapshots</url>
+			<id>maven-timespamp-plugin.googlecode.releases.snapshots</id>
+			<name>maven-timespamp-plugin.googlecode.releases.snapshots</name>
+            <url>http://maven-timestamp-plugin.googlecode.com/git/repository/snapshots</url>
 		</snapshotRepository>
 	</distributionManagement>
 </project>
